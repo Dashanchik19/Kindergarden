@@ -26,7 +26,7 @@
         ua: "компенсуючого типу для дітей з вадами розвитку",
         en: "Compensatory Type for Children with Developmental Disabilities",
       },
-      aboutTitle: { ua: "Про наш садочокHi12", en: "About ours kindergarden" },
+      aboutTitle: { ua: "Про наш садочок", en: "About ours kindergarden" },
       about1: {
         ua: "Доброго дня! Ми раді вітати Вас на сторінці Дитячого садка №28 Вулик у Луцьку.",
         en: "About ours kindergarden",
