@@ -7,7 +7,7 @@
         en: "Children's Kindergarten Vulyk Preschool Educational Institution No. 28 of the Lutsk District, Volyn Region",
       },
       navLink: { ua: 'Дитячий садок "Вулик"', en: 'Kindergarten "Vulyk"' },
-      aboutMenu: { ua: "Про нас", en: "About" },
+      aboutMenu: { ua: "Про нас1", en: "About" },
       offersMenu: { ua: "Пропозиції", en: "Offers" },
       scheduleMenu: { ua: "Режим дня", en: "Day routine" },
       teachersMenu: { ua: "Вихователі", en: "Teachers" },
